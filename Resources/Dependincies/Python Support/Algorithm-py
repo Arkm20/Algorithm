@@ -1,0 +1,8 @@
+#! /usr/bin/python3
+import time 
+
+print ("Creating Algorithm for Python Use...")
+
+time.sleep(1.6)
+
+print ("Created...")

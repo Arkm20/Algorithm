@@ -1,0 +1,12 @@
+#! /bin/bash
+
+userpath=$(pwd)
+
+if [-e ${USERPATH}/Algorithm/bin/Algorithm] 
+echo "Algorithm Already initialized..."
+logout
+
+else
+echo "Creating Initilizer"
+
+fi
