@@ -2,7 +2,8 @@
 
 userpath=$(pwd)
 
-if [-e ${USERPATH}/Algorithm/bin/Algorithm] 
+if [-e ${USERPATH}/Algorithm/bin/Algorithm]
+do
 echo "Algorithm Already initialized..."
 logout
 
